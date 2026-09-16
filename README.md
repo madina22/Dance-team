@@ -2,6 +2,8 @@
 
 A student-led dance community focused on creating an inclusive space for students to learn, practice, perform, and connect through dance.
 
+Taught 20 girls; Top 2 team; performed 3 street dance styles; collaborated with 4 teams; motivated students to create original choreography
+
 ## About the Project
 
 The Dance Team is a student-led initiative created to bring together students who are interested in dance, regardless of their previous experience.
